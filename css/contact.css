@@ -1,0 +1,196 @@
+.top {
+  background-color: rgb(130, 80, 6);
+  color: white;
+  font-size: 14px;
+}
+
+.left-section {
+  padding-left: 150px;
+  display: inline;
+}
+
+.left-icons {
+  height: 20px;
+}
+
+.right-section {
+  padding-left: 200px;
+  text-align: right;
+  display: inline;
+}
+
+nav ul li {
+	padding: 20px;
+	margin: 0px;
+	list-style: none;
+	display: inline-block;
+	border: 0px;
+	margin: 0 auto 0px auto;
+  align-items: center;
+  font-weight: bold;
+  color: black;
+}
+nav ul li a:hover{
+	color: gold;
+}
+
+.logo {
+  height: 100px;
+}
+
+.contact-direct {
+  float: right;
+  margin-right: 200px;
+  width: 500px;
+  text-align: left;
+}
+
+.message {
+  background-color: rgba(243, 229, 229, 0.489);
+  height: 500px;
+}
+
+.form-head {
+  margin-left: 150px;
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 14px;
+  color: rgb(74, 4, 4);
+}
+.form {
+  margin-left: 150px;
+  margin-top: 50px;
+}
+#fname, #lname, #phone, #email {
+  width: 250px;
+  
+}
+#fname, #phone {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+#subject, #message {
+  width: 535px;
+  margin-bottom: 20px;
+}
+
+input {
+  border-color: lightgray;
+  border-top: lightgray;
+  border-left: lightgray;
+}
+.send-btn {
+  color: white;
+  background-color: orange;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 8px;
+  border: none;
+}
+
+.social-icons {
+  width: 50px;
+}
+
+.location-head {
+  text-align: center;
+}
+
+.location-heading {
+  font-weight: bold;
+  font-size: 14px;
+  padding-top: 30px;
+  color: rgb(74, 4, 4);
+}
+
+.row {
+  padding-top: 50px;
+}
+
+.cards {
+  margin-bottom: 100px;
+  margin-left: 100px;
+  
+}
+
+.card-container {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+  text-align: left;
+  width: 270px;
+  height: 200px;
+  padding: 30px;
+}
+
+.title {
+  color: rgb(74, 4, 4);
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.location-info {
+  font-size: 14px;
+}
+
+footer {
+  background: rgba(153, 72, 18, 0.927);
+  color: #fff;
+  height: 200px;
+}
+
+.footer-headings {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.col-1, .col-2, .col-3, .col-4 {
+  padding-top: 50px;
+  width: 150px;
+  font-size: 14px;
+}
+
+.col-1 {
+  float: left;
+  margin-left: 70px;
+}
+.col-2 {
+  float: left;
+  margin-left: 100px;
+}
+.col-3 {
+  float: left;
+  padding-left: 100px;
+}
+.col-4 {
+  float: right;
+  padding-left: 100px;
+}
+
+.submit-btn {
+  margin-top: 10px;
+  background-color:orange;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 30px;
+  width: 100px;
+  align-self: center;
+}
+.copyright {
+  background: rgba(153, 72, 18, 0.927);
+  color: #fff;
+  height: 70px;
+}
+.copyright-para {
+  margin-left: 70px;
+  font-size: 14px;
+  padding-top: 20px;
+}
+
+.social-icons {
+  width: 50px;
+}
+
+.social-icons-para {
+  float: right;
+  margin-right: 100px;
+}

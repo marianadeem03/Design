@@ -1,0 +1,188 @@
+.top {
+  background-color: rgb(130, 80, 6);
+  color: white;
+  font-size: 14px;
+}
+
+.left-section {
+  padding-left: 150px;
+  display: inline;
+}
+
+.left-icons {
+  height: 20px;
+}
+
+.right-section {
+  padding-left: 200px;
+  text-align: right;
+  display: inline;
+}
+
+nav ul li {
+	padding: 20px;
+	margin: 0px;
+	list-style: none;
+	display: inline-block;
+	border: 0px;
+	margin: 0 auto 0px auto;
+  align-items: center;
+  font-weight: bold;
+  color: black;
+}
+nav ul li a:hover{
+	color: gold;
+}
+
+.logo {
+  height: 100px;
+}
+
+.cover {
+  height: 250px;
+  width: 100%;
+}
+
+.cover_section {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.below-centered {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container1 {
+  background-color: rgba(243, 229, 229, 0.489);
+  height: 170px;
+  width: 100%;
+  display: flex;
+  padding-top: 50px;
+  padding-left: 170px;
+  
+}
+
+.icons {
+  width: 70px;
+}
+
+.title {
+  color: orange;
+  font-size: 14px;
+  font-weight: bold;
+  display: block;
+}
+
+.content {
+  font-size: 12px;
+  float: right;
+  width: 200px;
+  padding-left: 20px;
+}
+
+.mid-container,
+.right-container {
+  margin-left: 150px;
+}
+
+.services-heading,
+.services-line {
+  text-align: center;
+}
+
+.services-heading {
+  padding-top: 50px;
+  font-weight: bold;
+  color: rgb(74, 4, 4);
+}
+
+.services-line {
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+.cards {
+  
+  margin-left: 70px;
+  margin-top: 50px;
+}
+
+.card-icon {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+.card-container {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+  text-align: center;
+  width: 350px;
+  height: 350px;
+  padding: 30px;
+}
+
+.team-pic {
+  width: 250px;
+  height: 250px;
+}
+
+.column {
+  flex: 20px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  padding-top: 50px;
+}
+
+.prod-title {
+  padding-top: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.prod-price {
+  color: orange;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.discover-line {
+  background-image: url('images/bakery-background-2. jpg');
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  height: 75px;
+  line-height: 100px;
+  padding: 50px;
+}
+
+.discover-text {
+  margin-left: 100px;
+}
+
+.discover_btn {
+  float: right;
+  background-color:#fff;
+  margin-right: 50px;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 40px;
+  width: 200px;
+  align-self: center;
+}
